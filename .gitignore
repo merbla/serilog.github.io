@@ -7,3 +7,9 @@
 /**/bin/
 /**/obj/
 docs
+
+/docfx_project/docs
+/docfx_project/src/
+/docfx_project/api/serilog
+/docfx_project/api/serilog-aspnetcore
+/docfx_project/api/serilog-sinks-console
